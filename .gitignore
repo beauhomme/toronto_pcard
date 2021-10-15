@@ -1,6 +1,4 @@
 .gitignore
-infiles/*
-outfiles/*
 workframe.csv
 README.md
 6b394ed0-1de6-403b-a907-a3608509e300
