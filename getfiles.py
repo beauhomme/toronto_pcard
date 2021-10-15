@@ -31,9 +31,9 @@ def unzipfiles(filename):
 
 url = 'https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/6b394ed0-1de6-403b-a907-a3608509e300'
 file = url.split('/')[-1]
-path = "C:\\Users\\test\\pyfortress\\pcard\\"
+path = "./"
 filename = path+file 
  
-# getfile(url)
-#nzipfiles(filename)
+getfile(url)
+unzipfiles(filename)
 # print(filename)
