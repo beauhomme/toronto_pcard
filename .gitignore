@@ -1,6 +1,5 @@
 .gitignore
 infiles/*
 outfiles/*
-workframe.csv
 README.md
 *.csv
