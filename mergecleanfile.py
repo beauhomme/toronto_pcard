@@ -34,8 +34,8 @@ except Exception as e:
 # filenames = glob.glob(f"{inpath}\*.xlsx")
 
 #Directory setup
-inpath = "C:\\Users\\test\\pyfortress\\pcard\\infiles"
-outpath = "C:\\Users\\test\\pyfortress\\pcard\\outfiles"
+inpath = r"\infiles"
+outpath = r"\outfiles"
 filenames = glob.glob(f"{inpath}\\*.xlsx")
 
 # %% [markdown]
