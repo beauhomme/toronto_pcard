@@ -17,7 +17,7 @@ cryptography==35.0.0
 cx_Oracle==8.2.1
 cycler==0.10.0
 Cython==0.29.24
-dask==2021.9.1
+dask==2021.10.0
 dataclasses==0.8
 docutils==0.17.1
 fastparquet==0.7.1
