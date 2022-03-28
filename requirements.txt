@@ -29,7 +29,7 @@ importlib_metadata==4.8.1
 ipython==7.31.1
 keyring==23.2.1
 lockfile==0.12.2
-lxml==4.6.3
+lxml==4.6.5
 matplotlib==3.4.3
 mtrand==0.1
 mx==3.2
