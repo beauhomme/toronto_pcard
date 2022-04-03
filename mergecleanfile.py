@@ -29,8 +29,8 @@ except Exception as e:
 # ### set the filepath and the wildcard mask to read all excel files
 
 # %%
-# inpath = r"C:\Users\A186999\OneDrive - Standard Bank\pcard\infiles"
-# outpath = r"C:\Users\A186999\OneDrive - Standard Bank\pcard\outfiles"
+# inpath = r"C:\Users\pcard\infiles"
+# outpath = r"C:\Users\pcard\outfiles"
 # filenames = glob.glob(f"{inpath}\*.xlsx")
 
 #Directory setup
