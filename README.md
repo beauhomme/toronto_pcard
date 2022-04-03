@@ -5,7 +5,7 @@ TASK 1 – Obtain and Clean Data
 Clone the Repository
 1.	Install the project dependencies according to the requirements.txt file
 
-2.	Execute the getfiles.py to fetch/download the datafiles to the infiles directory path. This is the location we the application expects to load files from. Files are expected in .xlsx formats. A scheduled job will run daily and would process any files in the directory.
+2.	Execute the getfiles.py to fetch/download the datafiles to the infiles directory path. This is the location the application expects to load files from. Files are expected in .xlsx formats. A scheduled job will run daily and would process any files in the directory.
 
 3.	Log on to your demo environment, then execute the database scripts in the directory, to prepare the database and warehouse for the rest of the project.  
 
